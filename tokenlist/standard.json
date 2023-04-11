@@ -1,0 +1,37 @@
+{
+  "_comment": "Deprecated",
+  "tokens": [
+    {
+      "symbol": "WETH",
+      "name": "Wrapped Ethereum",
+      "address": "0xA23DDf516C1B00B2f00E5466426FA244d275D4F1"
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin (goerli)",
+      "address": "0x0faf6df7054946141266420b43783387a78d82a9",
+      "decimals": 6
+    },
+    {
+      "symbol": "DAI",
+      "name": "DAI",
+      "address": "0x3e7676937a7e96cfb7616f255b9ad9ff47363d4b"
+    },
+    {
+      "symbol": "wBTC",
+      "name": "wBTC",
+      "address": "0x0bfce1d53451b4a8175dd94e6e029f7d8a701e9c",
+      "decimals": 8
+    },
+    {
+      "symbol": "LINK",
+      "name": "ChainLink Token (goerli)",
+      "address": "0x40609141db628beee3bfab8034fc2d8278d0cc78"
+    },
+    {
+      "symbol": "DTT",
+      "name": "Deflating Test Token",
+      "address": "0x2da10A1e27bF85cEdD8FFb1AbBe97e53391C0295"
+    }
+  ]
+}

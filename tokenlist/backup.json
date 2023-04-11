@@ -1,0 +1,95 @@
+{
+  "tokens": [
+    {
+      "symbol": "WETH",
+      "name": "Wrapped Ethereum",
+      "address": "0x5b9f21d407f35b10cbfddca17d5d84b129356ea3"
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin (goerli)",
+      "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+      "decimals": 6
+    },
+    {
+      "symbol": "DAI",
+      "name": "DAI",
+      "address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b"
+    },
+    {
+      "symbol": "wBTC",
+      "name": "wBTC",
+      "address": "0x0BfcE1D53451B4a8175DD94e6e029F7d8a701e9c",
+      "decimals": 8
+    },
+    {
+      "symbol": "LINK",
+      "name": "ChainLink Token (goerli)",
+      "address": "0x40609141Db628BeEE3BfAB8034Fc2D8278D0Cc78"
+    },
+    {
+      "symbol": "FRAX",
+      "name": "Frax",
+      "address": "0xa23ddf516c1b00b2f00e5466426fa244d275d4f1"
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "address": "0x090dd18f3ddaa224f0b0dce86f7527b13a8c86ee",
+      "decimals": 6
+    },
+    {
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "address": "0x7917338f69b6d4f0be783c43cb4c2d01f15de185"
+    },
+    {
+      "symbol": "SLP",
+      "name": "Smooth Love Potion",
+      "address": "0x17cfbb79f9794a301cbd4f99c14cf6cba6969f15",
+      "decimals": 0
+    },
+    {
+      "symbol": "CRV",
+      "name": "Curve DAO Token",
+      "address": "0x46047baa89dacabc272037179ba0076d8ab9b64d"
+    },
+    {
+      "symbol": "TEST",
+      "name": "Testnet Token",
+      "address": "0x86485f77cd4024be3e5bd22cc2aa7cb397d0561a"
+    },
+    {
+      "symbol": "MLTT",
+      "name": "Matter Labs Trial Token",
+      "address": "0xb8b594a2b6d799021edc8dd8ae0dc28de0ef6d0e",
+      "decimals": 10
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "address": "0xc6dac3a53d5d6de9d1d05aa6e28b8e9e41722601"
+    },
+    {
+      "symbol": "renBTC",
+      "name": "renBTC",
+      "address": "0x4db1d9f9c7895b0be147bf8f50ac3388c05ddf79",
+      "decimals": 8
+    },
+    {
+      "symbol": "stETH",
+      "name": "Lido Staked Ether",
+      "address": "0x9b5def958d0f3b6955cbea4d5b7809b2fb26b059"
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "address": ""
+    },
+    {
+      "symbol": "MKR",
+      "name": "Maker",
+      "address": "0xfdfe03bae6b8113ee1002d2be453fb71ca5783d3"
+    }
+  ]
+}

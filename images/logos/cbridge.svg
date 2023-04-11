@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-58 305.5 401.4 234" enable-background="new -58 305.5 401.4 234" xml:space="preserve">
+<circle fill="#444444" cx="12.9" cy="468.6" r="70.9"/>
+<circle fill="#DDDDDD" cx="272.5" cy="468.6" r="70.9"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-31" y="305.5" width="346.6" height="620.5">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-31" y="305.5" width="346.6" height="620.5" id="mask0_1455_365">
+	<rect x="-32.1" y="302.9" fill="#C4C4C4" filter="url(#Adobe_OpacityMaskFilter)" width="348.7" height="173.4"/>
+</mask>
+<g mask="url(#mask0_1455_365)">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-31" y="305.5" width="346.6" height="620.5">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="-31" y="305.5" width="346.6" height="620.5" id="mask1_1455_365">
+		<path fill="#E9BCFF" filter="url(#Adobe_OpacityMaskFilter_1_)" d="M142.3,305.5C46.6,305.5-31,380.8-31,473.7v311.2h86.9V481.8
+			c0-46.3,38.7-83.8,86.4-83.8c47.7,0,86.4,37.5,86.4,83.8v303.2h86.9V473.7C315.6,380.8,238,305.5,142.3,305.5z"/>
+	</mask>
+	<g mask="url(#mask1_1455_365)">
+		<path fill="#E9BCFF" d="M-31,478.8c0-95.7,77.6-173.3,173.3-173.3s173.3,77.6,173.3,173.3v306.1H-31V478.8z"/>
+		<path fill="#2C98F3" d="M-11.3,481.5c0-85,68.9-153.9,153.9-153.9s153.9,68.9,153.9,153.9v334.1H-11.3V481.5z"/>
+		<path fill="#58C971" d="M8.9,481.1c0-72.6,58.8-131.4,131.4-131.4s131.4,58.8,131.4,131.4v383.7H8.9V481.1z"/>
+		<path fill="#FFCA42" d="M33.4,483.7c0-60.1,48.7-108.9,108.9-108.9s108.9,48.7,108.9,108.9v442.4H33.4V483.7z"/>
+	</g>
+</g>
+</svg>

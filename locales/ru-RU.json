@@ -1,0 +1,27 @@
+{
+    "trade": "Обменять",
+    "tradeTooltip": "Trade between tokens easily",
+    "pool": "Пулы",
+    "poolTooltip": "Manage your liquidity positions",
+    "wrap": "обернуть",
+    "wrapTooltip": "Wrap or unwrap stable assets",
+    "earn": "Earn",
+    "earnTooltip": "Earn boosted rewards with your liquidity",
+    "dao": "DAO",
+    "daoTooltip": "Staking and participate in governance",
+    "launch": "Launch",
+    "launchTooltip": "Participate in launch of latest tokens",
+    "dashboard": "Dashboard",
+    "dashboardTooltip": "Track your account and portfolio",
+
+    "faucet": "Faucet",
+    "faucetRequestButton": "Запрос средств из крана",
+
+    "wallet-tooltip": "Подключенный кошелек",
+
+    "connectWallet": "Подключить кошелёк",
+
+    "poolOverview": "Обзор пулов",
+    "removeLiquidity": "Withdraw Liquidity",
+    "removeLiquidityTooltip": "Вы можете вывести средства в один или оба этих актива, в любом размере. Заработанные комиссионные уже включены."
+}
